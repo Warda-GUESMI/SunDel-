@@ -1,0 +1,17 @@
+# Ignore env files
+.env
+
+# Android / Gradle
+.gradle/
+local.properties
+*.iml
+/build
+/captures
+.externalNativeBuild
+
+# Android Studio
+.idea/
+.DS_Store
+
+# Logs
+*.log

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary: warm yellow -->
+    <color name="colorPrimary">#FFC107</color>
+    <color name="colorPrimaryDark">#FFB300</color>
+    <color name="colorPrimaryLight">#FFF8E1</color>
+    <color name="colorAccent">#FFC107</color>
+
+    <!-- Background -->
+    <color name="white">#FFFFFF</color>
+    <color name="background">#FAFAFA</color>
+    <color name="surface">#FFFFFF</color>
+
+    <!-- Text -->
+    <color name="textPrimary">#212121</color>
+    <color name="textSecondary">#757575</color>
+    <color name="textHint">#BDBDBD</color>
+
+    <!-- Status colors -->
+    <color name="statusLivree">#4CAF50</color>
+    <color name="statusEnCours">#FFC107</color>
+    <color name="statusEchouee">#F44336</color>
+    <color name="statusNonDefini">#9E9E9E</color>
+
+    <!-- Divider -->
+    <color name="divider">#E0E0E0</color>
+
+    <!-- Urgence -->
+    <color name="urgenceBackground">#FFEBEE</color>
+    <color name="urgenceText">#C62828</color>
+</resources>

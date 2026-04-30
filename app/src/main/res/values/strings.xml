@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SunDelivery</string>
+    <string name="login">Connexion</string>
+    <string name="logout">Déconnexion</string>
+    <string name="livraisons">Livraisons</string>
+    <string name="dashboard">Tableau de bord</string>
+    <string name="messages">Messages</string>
+    <string name="mes_livraisons">Mes livraisons</string>
+    <string name="urgence">Urgence</string>
+    <string name="envoyer">Envoyer</string>
+    <string name="rechercher">Rechercher</string>
+    <string name="reinitialiser">Réinitialiser</string>
+    <string name="sauvegarder">Sauvegarder</string>
+    <string name="annuler">Annuler</string>
+    <string name="retour">Retour</string>
+    <string name="google_maps">Voir sur Maps</string>
+    <string name="app_version">v1.0</string>
+
+    <string-array name="etats_livraison">
+        <item>Tous les états</item>
+        <item>en_cours</item>
+        <item>livree</item>
+        <item>echouee</item>
+    </string-array>
+</resources>
